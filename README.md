@@ -1,3 +1,5 @@
 # Python-Exercises-UDEMY
 
-Numpy,Pandas 
+
+
+NUMPY- PANDAS- MATPLOTLIB
